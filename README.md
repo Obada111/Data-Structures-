@@ -9,6 +9,8 @@
 >
 > Perfect for **Competitive Programming**, **Technical Interviews**, and **Algorithm Learning**
 
+> Some implementations are inspired by the Data Structures course materials prepared by Dr. Zein Salah at Palestine Polytechnic University.
+
 ---
 
 ## 📚 Table of Contents
@@ -859,7 +861,7 @@ We welcome contributions! To contribute:
 
 ## 📞 Support & Contact
 
-- 📧 **Email:** [Your Email]
+- 📧 **Email:** [jobaobada8@gmail.com]
 - 💬 **Issues:** [GitHub Issues](https://github.com/Obada111/data-structure-cpp/issues)
 - 💭 **Discussions:** [GitHub Discussions](https://github.com/Obada111/data-structure-cpp/discussions)
 
@@ -877,6 +879,8 @@ Special thanks to:
 - Contributors who improved the code
 - Users who reported issues
 - Everyone learning data structures!
+- Dr. Zein Salah
+  
 
 ---
 
